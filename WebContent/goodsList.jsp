@@ -44,7 +44,7 @@
 					<button class="getGoods" value="${goods.gid }">编辑</button>
 				</td>
 				<td>
-					<button class="delGoods" value="${goods.gid }">删除</button>
+					<button class="delGoods" value="${goods.gid }">删除啊</button>
 				</td>
 			</tr>	
 		</c:forEach>
